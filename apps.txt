@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gmae to code
+=======
+fav_movie
+>>>>>>> movies
